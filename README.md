@@ -18,8 +18,9 @@ Following:
 
 ### Installation and use (look if works for mutiple platforms)
 Build with cmake:
+
 If u dont have a build/ subdirectory created, create it with your prefered method.
-Then use this command with cmake installed:
+Then use this commands with cmake installed:
 
 ```
 cmake . -B build/
