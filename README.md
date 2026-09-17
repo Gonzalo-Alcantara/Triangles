@@ -1,5 +1,5 @@
 # Triangles
-Graphics triangle
+Learning to do triangles with differents graphic libraries
 
 ## OpenGL
 Build on:
@@ -20,10 +20,12 @@ Following:
 Build with cmake:
 If u dont have a build/ subdirectory created, create it with your prefered method.
 Then use this command with cmake installed:
-`
+
+```
 cmake . -B build/
 cmake --build build/
-`
+```
+
 The executable will be one the build/ directory
 
 If u dont have a GLFW already installed, download appropiate library of [GLFW](https://www.glfw.org/download.html) for your operating system,then place it in build/, or ut it in a PATH the computer will find when executing.
